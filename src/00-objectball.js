@@ -1,0 +1,1 @@
+function numPointsScored(Brook Lopez)
